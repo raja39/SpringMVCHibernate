@@ -1,0 +1,22 @@
+@CHARSET "ISO-8859-1";
+
+#wrapper {
+	margin-left:auto;
+	margin-right:auto;
+	width:960px;
+	height:auto;
+	position:relative;
+	
+}
+
+#d1{
+	padding:20px 20px 20px 20px 20px;
+	border:solid;
+	width:300px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+h1{
+	font-family:calibri;
+}
